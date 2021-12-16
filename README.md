@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat-square&logo=Swift&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-0095D5?style=flat-square&logo=Html&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-0095D5?style=flat-square&logo=Css&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-3776AB?style=flat-square&logo=Flutter&logoColor=white"/></a>
