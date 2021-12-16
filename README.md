@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-f5da42?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-3776AB?style=flat-square&logo=Flutter&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-60d5f2?style=flat-square&logo=React&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React-60d5f2?style=flat-square&logo=React&logoColor=white"/></a>
