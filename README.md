@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcw1031&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcw1031&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
 
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/JAVA-fc3838?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-357cb2?style=flat-square&logo=Python&logoColor=white"/></a>
