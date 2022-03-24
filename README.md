@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-60d5f2?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-3776AB?style=flat-square&logo=Flutter&logoColor=white"/></a>
+<a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=C&logoColor=white"/></a>
