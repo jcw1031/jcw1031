@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 <a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat-square&logo=Swift&logoColor=white"/></a>
 <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-3776AB?style=flat-square&logo=Flutter&logoColor=white"/></a>
 
+### 🙋🏻‍♂️ME
+
+<img src="https://img.shields.io/badge/Notion-3766AB?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcw1031&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
