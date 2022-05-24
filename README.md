@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 🙋🏻‍♂️ME
 
 <a href="https://woopaca.notion.site/635f5ea18d264ea9be3604209991c184" target="_blank"><img src="https://img.shields.io/badge/Notion-272727?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
+<a href="https://woopaca.notion.site/635f5ea18d264ea9be3604209991c184" target="_blank"><img src="https://img.shields.io/badge/Instagram-272727?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ### 🛠Skills
 
