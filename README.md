@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 [![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcw1031&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcw1031)](https://solved.ac/jcw1031/)
