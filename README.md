@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a href="https://woopaca.notion.site/635f5ea18d264ea9be3604209991c184" target="_blank"><img src="https://img.shields.io/badge/Notion-272727?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/j_chanoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/j_chanoo/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
+<a href="https://www.instagram.com/j_chanoo/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ### 🛠Skills
 
