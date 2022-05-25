@@ -1,4 +1,4 @@
-# 안녕하세요! KNU 19학번 지찬우입니다.👋
+## 안녕하세요! KNU 19학번 지찬우입니다.👋
 
 
 
@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🙋🏻‍♂️ME
-
+### 🙋🏻‍♂️ME
+##
 <a href="https://woopaca.notion.site/635f5ea18d264ea9be3604209991c184" target="_blank"><img src="https://img.shields.io/badge/Notion-272727?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/j_chanoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@jcw1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-## 🛠Skills
-
+### 🛠Skills
+##
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/JAVA-fc3838?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-357cb2?style=flat-square&logo=Python&logoColor=white"/></a>
 <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-f5da42?style=flat-square&logo=Javascript&logoColor=white"/></a>
