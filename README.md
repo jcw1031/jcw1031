@@ -28,7 +28,7 @@
 <a href="https://hyper.is" target="_blank"><img src="https://img.shields.io/badge/Hyper-222222?style=flat&logo=Hyper&logoColor=white"/></a>
 ##
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)
+[![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcw1031&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcw1031)](https://solved.ac/jcw1031/)
