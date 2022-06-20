@@ -26,7 +26,7 @@
 <a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=Xcode&logoColor=white"/></a>   
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/></a>
-<a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
+<a href="https://github.com/jcw1031" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
 <a href="https://hyper.is" target="_blank"><img src="https://img.shields.io/badge/Hyper-222222?style=flat&logo=Hyper&logoColor=white"/></a>
 ##
 
