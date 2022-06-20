@@ -4,7 +4,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjcw1031&count_bg=%232F6DC4&title_bg=%23555555&icon=github.svg&icon_color=%23EDEDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  System.out.println("Hello!");
+<pre><code>{System.out.println("Hello!");}</code></pre>
 
 ## 🙋🏻‍♂️ME
 <a href="https://woopaca.notion.site/635f5ea18d264ea9be3604209991c184" target="_blank"><img src="https://img.shields.io/badge/Notion-272727?style=flat&logo=Notion&logoColor=white"/></a>
