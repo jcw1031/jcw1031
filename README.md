@@ -23,6 +23,7 @@
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-007acc?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=Xcode&logoColor=white"/></a>
+ <a href="https://hyper.is" target="_blank"><img src="https://img.shields.io/badge/Hyper-222222?style=flat&logo=Hyper&logoColor=white"/></a>
 ##
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)
