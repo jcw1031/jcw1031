@@ -20,7 +20,7 @@
 <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-3776AB?style=flat&logo=Flutter&logoColor=white"/></a>
  
 ### ⚙️Tools
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007acc?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-007acc?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=Xcode&logoColor=white"/></a>
 ##
