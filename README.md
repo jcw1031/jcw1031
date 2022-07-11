@@ -15,7 +15,6 @@
 <a href="https://velog.io/@jcw1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 ### 🛠Skills
- <i class="fa-brands fa-java"></i>
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/JAVA-fc3838?style=flat&logo=OpenJDK&logoColor=white"/></a>
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-357cb2?style=flat&logo=Python&logoColor=white"/></a>
 <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-f5da42?style=flat&logo=Javascript&logoColor=white"/></a>   
