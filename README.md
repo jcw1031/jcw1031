@@ -32,8 +32,8 @@
 <a href="https://hyper.is" target="_blank"><img src="https://img.shields.io/badge/Hyper-222222?style=flat&logo=Hyper&logoColor=white"/></a>
 ##
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jcw1031&theme=tokyonight">
+[![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;&nbsp;   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jcw1031&theme=tokyonight">   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcw1031&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
 
  ##
