@@ -16,16 +16,15 @@
 
 ### 🛠Skills
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/JAVA-fc3838?style=flat&logo=OpenJDK&logoColor=white"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-357cb2?style=flat&logo=Python&logoColor=white"/></a>
-<a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-f5da42?style=flat&logo=Javascript&logoColor=white"/></a>   
-<a href="https://github.com/cplusplus" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>
 <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat&logo=Spring&logoColor=white"/></a>
-<a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat&logo=Swift&logoColor=white"/></a>   
-<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
- 
+<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>   
+ <a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat&logo=Swift&logoColor=white"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-357cb2?style=flat&logo=Python&logoColor=white"/></a>   
+
+
 ### ⚙️Tools
-<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-007acc?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
+<a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-007acc?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://developer.apple.com/kr/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=Xcode&logoColor=white"/></a>   
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/></a>
 <a href="https://github.com/jcw1031" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
