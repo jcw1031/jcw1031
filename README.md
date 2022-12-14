@@ -11,8 +11,8 @@
 ### 🙋🏻‍♂️ME
 <a href="https://woopaca.notion.site/635f5ea18d264ea9be3604209991c184" target="_blank"><img src="https://img.shields.io/badge/Notion-272727?style=flat&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/j_chanoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://woopaca.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a>
 <a href="https://velog.io/@jcw1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="https://woopaca.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a>
 
 ### 🛠Skills
 <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/JAVA-fc3838?style=flat&logo=OpenJDK&logoColor=white"/></a>
