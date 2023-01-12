@@ -35,9 +35,9 @@
  
  ##
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;&nbsp;   
+[![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;&nbsp;   
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jcw1031&theme=tokyonight">   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcw1031&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcw1031&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
 
  ##
  
