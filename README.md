@@ -38,10 +38,6 @@
  ##
 
 [![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;&nbsp;   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jcw1031&theme=tokyonight">   
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcw1031&langs_count=5&theme=tokyonight&layout=compact)](https://github.com/jcw1031)
-
- ##
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcw1031)](https://solved.ac/jcw1031/)
 <a href="https://opgc.me/#/users/jcw1031" target="_blank"><img src="https://api.opgc.me/githubs/users/jcw1031/tag/?theme=basic" /></a>
