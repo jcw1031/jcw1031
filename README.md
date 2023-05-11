@@ -26,11 +26,9 @@
 
 ### ⚙️Tools
 <a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
-<a href="https://developer.apple.com/kr/xcode/" target="_blank"><img src="https://img.shields.io/badge/Xcode-147efb?style=flat&logo=Xcode&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/ko-kr/datagrip/" target="_blank"><img src="https://img.shields.io/badge/DataGrip-927ec8?style=flat&logo=DataGrip&logoColor=white"/></a>   
 <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/></a>
-<a href="https://github.com/jcw1031" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>
-<a href="https://hyper.is" target="_blank"><img src="https://img.shields.io/badge/Hyper-222222?style=flat&logo=Hyper&logoColor=white"/></a>   
+<a href="https://github.com/jcw1031" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>   
  
  ### 🏗️ Infra
  <a href="https://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-BKWS-all-core-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_644033776725-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General_core%20brand_main-KWID_43700074755444101-aud-970366092687%3Akwd-26415313501&userloc_1009838-network_g&utm_term=KW_google%20cloud%20platform&gclid=CjwKCAiAleOeBhBdEiwAfgmXfzG5i3nTZZSNVbdM9DRVnZCzq3N7d7-FA4eV-gjk8M797ITInhc91BoCO4YQAvD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/></a>
