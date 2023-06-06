@@ -17,21 +17,23 @@
 <!-- <a href="https://woopaca.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a> -->
 
 ### 🛠Skills
-<a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/JAVA-fc3838?style=flat&logo=OpenJDK&logoColor=white"/></a>
-<a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/Spring-6db33f?style=flat&logo=Spring&logoColor=white"/></a>
-<a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>   
+<a href="https://spring.io/projects/spring-boot" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
+<a href="https://hibernate.org/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></a>
+<a href="https://www.mysql.com" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <!--  <a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat&logo=Swift&logoColor=white"/></a> -->
 <!-- <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-357cb2?style=flat&logo=Python&logoColor=white"/></a>    -->
 
-
 ### ⚙️Tools
-<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
-<a href="https://www.jetbrains.com/ko-kr/datagrip/" target="_blank"><img src="https://img.shields.io/badge/DataGrip-927ec8?style=flat&logo=DataGrip&logoColor=white"/></a>   
-<a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/></a>
-<a href="https://github.com/jcw1031" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/></a>   
+<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
+<a href="https://git-scm.com" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/></a><br>
+<a href="https://www.jetbrains.com/ko-kr/datagrip/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/DataGrip-927ec8?style=flat&logo=DataGrip&logoColor=white"/></a>
+<a href="https://www.postman.com/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/></a>
+<a href="https://iterm2.com/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/iTerm2-000000?style=flat&logo=iTerm2&logoColor=white"/></a> 
  
  ### 🏗️ Infra
- <a href="https://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campaign=japac-KR-all-en-dr-BKWS-all-core-trial-EXA-dr-1605216&utm_content=text-ad-none-none-DEV_c-CRE_644033776725-ADGP_Hybrid%20%7C%20BKWS%20-%20EXA%20%7C%20Txt%20~%20GCP_General_core%20brand_main-KWID_43700074755444101-aud-970366092687%3Akwd-26415313501&userloc_1009838-network_g&utm_term=KW_google%20cloud%20platform&gclid=CjwKCAiAleOeBhBdEiwAfgmXfzG5i3nTZZSNVbdM9DRVnZCzq3N7d7-FA4eV-gjk8M797ITInhc91BoCO4YQAvD_BwE&gclsrc=aw.ds" target="_blank"><img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=GoogleCloud&logoColor=white"/></a>
+ <a href="https://aws.amazon.com/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/></a>
+<a href="https://iterm2.com/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/></a>
+<a href="https://iterm2.com/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a>
  
  ##
 
