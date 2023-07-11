@@ -18,7 +18,7 @@
 
 ### 🛠Skills
 <a href="https://spring.io/projects/spring-boot" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
-<a href="https://hibernate.org/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white"/></a>
+<a href="https://hibernate.org/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Hibernate ORM-59666C?style=flat&logo=Hibernate&logoColor=white"/></a>
 <a href="https://www.mysql.com" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <!--  <a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F57542?style=flat&logo=Swift&logoColor=white"/></a> -->
 <!-- <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-357cb2?style=flat&logo=Python&logoColor=white"/></a>    -->
