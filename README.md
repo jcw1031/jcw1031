@@ -40,4 +40,8 @@
 [![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;&nbsp;   
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcw1031)](https://solved.ac/jcw1031/)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jcw1031"/>
+</a>
 </div>
