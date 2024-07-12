@@ -14,7 +14,6 @@
 <a href="https://woopaca.notion.site/a0abc390134d40979f64a26cea4de23e" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat&logo=Notion&logoColor=black"/></a>
 <a href="https://woopaca.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFCD00?style=flat&logo=Kakao&logoColor=white"/></a>
 <a href="https://velog.io/@jcw1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-<a href="https://www.instagram.com/j_chanoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 ### 🛠Skills
 <a href="https://www.java.com/en/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Java-EB282A?style=flat&logo=Java&logoColor=white"/></a>
