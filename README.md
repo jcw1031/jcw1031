@@ -16,21 +16,19 @@
 <a href="https://velog.io/@jcw1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
 ### 🛠Skills
-<a href="https://www.java.com/en/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Java-EB282A?style=flat&logo=Java&logoColor=white"/></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Spring Boot-6db33f?style=flat&logo=SpringBoot&logoColor=white"/></a>
-<a href="https://www.mysql.com" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,reactnative)](https://github.com/jcw1031)
 
 ### ⚙️Tools
-<a href="https://www.jetbrains.com/ko-kr/idea/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
-<a href="https://git-scm.com" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white"/></a><br>
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=idea,git)](https://github.com/jcw1031)
  
- ### 🏗️ Infra
- <a href="https://aws.amazon.com/" target="_blank" class="simple-icon"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></a>
- 
- ##
+### 🏗️ Infra
+
+[![Infra](https://go-skill-icons.vercel.app/api/icons?i=aws,docker)](https://github.com/jcw1031)
+
+##
 
 [![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jcw1031&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/jcw1031)&nbsp;&nbsp;   
- 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jcw1031)](https://solved.ac/jcw1031/)
 
 <a href="https://github.com/devxb/gitanimals">
