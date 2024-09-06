@@ -4,6 +4,7 @@
 
 ### 👨🏻‍💻ME
 <a href="https://woopaca.notion.site/a0abc390134d40979f64a26cea4de23e" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat&logo=Notion&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/woopaca" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://woopaca.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://velog.io/@jcw1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
